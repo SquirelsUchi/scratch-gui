@@ -1,0 +1,19 @@
+@import '../../css/colors.css';
+
+.container {
+  width: 100%;
+}
+
+.waveform-path {
+  stroke: $sound-tertiary;
+
+  /*
+        This color is lighter than sound-primary, but
+        cannot use alpha because of overlapping elements.
+    */
+  fill: hsl(300deg 54% 72%);
+}
+
+.baseline {
+  stroke: $sound-tertiary;
+}

@@ -1,0 +1,1518 @@
+[
+  {
+    "name": "Авокадо",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "ba2898cd0bec2602817cd9c16c2de2e4",
+        "name": "Авокадо",
+        "bitmapResolution": 2,
+        "dataFormat": "png",
+        "md5ext": "ba2898cd0bec2602817cd9c16c2de2e4.png",
+        "rotationCenterX": 164,
+        "rotationCenterY": 124
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Апельсин",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "5a7dee68f3f4c069084d9cfc771d91ec",
+        "name": "Апельсин",
+        "bitmapResolution": 2,
+        "md5ext": "5a7dee68f3f4c069084d9cfc771d91ec.png",
+        "dataFormat": "png",
+        "rotationCenterX": 158,
+        "rotationCenterY": 118
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Аптека",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "94ed8e453aac18aeeca3b772e96f41e6",
+        "name": "Аптека",
+        "bitmapResolution": 2,
+        "md5ext": "94ed8e453aac18aeeca3b772e96f41e6.png",
+        "dataFormat": "png",
+        "rotationCenterX": 354,
+        "rotationCenterY": 288
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Аптечка",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "bc7e1c20ed2366b7cac646e8f62fb399",
+        "name": "Аптечка",
+        "bitmapResolution": 2,
+        "md5ext": "bc7e1c20ed2366b7cac646e8f62fb399.png",
+        "dataFormat": "png",
+        "rotationCenterX": 222,
+        "rotationCenterY": 188
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Астероид",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "e5b7edcb22d8c255ae0611415b056dac",
+        "name": "Астероид",
+        "bitmapResolution": 2,
+        "md5ext": "e5b7edcb22d8c255ae0611415b056dac.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Бананы",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "0a8f31b5812071382eea538859f0064a",
+        "name": "Бананы",
+        "bitmapResolution": 2,
+        "md5ext": "0a8f31b5812071382eea538859f0064a.png",
+        "dataFormat": "png",
+        "rotationCenterX": 246,
+        "rotationCenterY": 206
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Барабанщик",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "fb7c19a1b277909a681ceedfe1755153",
+        "name": "Барабанщик",
+        "bitmapResolution": 2,
+        "md5ext": "fb7c19a1b277909a681ceedfe1755153.png",
+        "dataFormat": "png",
+        "rotationCenterX": 247,
+        "rotationCenterY": 233
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Барабаны",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "0334a90e2f2107da6d13783ee5ec86aa",
+        "name": "Барабаны",
+        "bitmapResolution": 2,
+        "md5ext": "0334a90e2f2107da6d13783ee5ec86aa.png",
+        "dataFormat": "png",
+        "rotationCenterX": 352,
+        "rotationCenterY": 216
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Вокалист",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "76cb5c5b062c721272d57c8052426907",
+        "name": "Вокалист",
+        "bitmapResolution": 2,
+        "md5ext": "76cb5c5b062c721272d57c8052426907.png",
+        "dataFormat": "png",
+        "rotationCenterX": 317,
+        "rotationCenterY": 271
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Гимнастка",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "64d9f288f56bec33ee991af1e558adae",
+        "name": "Гимнастка",
+        "bitmapResolution": 2,
+        "md5ext": "64d9f288f56bec33ee991af1e558adae.png",
+        "dataFormat": "png",
+        "rotationCenterX": 310,
+        "rotationCenterY": 298
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Акустическая гитара",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "cd3376908526bd58a8239d1f7a087d92",
+        "name": "Акустическая гитара",
+        "bitmapResolution": 2,
+        "md5ext": "cd3376908526bd58a8239d1f7a087d92.png",
+        "dataFormat": "png",
+        "rotationCenterX": 148,
+        "rotationCenterY": 330
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Электрогитара",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "cf32dea6e473cb287e73b9f7e6ee4cc9",
+        "name": "Электрогитара",
+        "bitmapResolution": 2,
+        "md5ext": "cf32dea6e473cb287e73b9f7e6ee4cc9.png",
+        "dataFormat": "png",
+        "rotationCenterX": 192,
+        "rotationCenterY": 374
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Гитарист",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "d988da6f06d51ce2f11d0031b14cf768",
+        "name": "Гитарист",
+        "bitmapResolution": 2,
+        "md5ext": "d988da6f06d51ce2f11d0031b14cf768.png",
+        "dataFormat": "png",
+        "rotationCenterX": 157,
+        "rotationCenterY": 259
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Гриша",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "6c66c885ba7ff1ebcb0b334ec907a1b5",
+        "name": "Гриша",
+        "bitmapResolution": 2,
+        "md5ext": "6c66c885ba7ff1ebcb0b334ec907a1b5.png",
+        "dataFormat": "png",
+        "rotationCenterX": 200,
+        "rotationCenterY": 400
+      },
+      {
+        "assetId": "578be652e01a801e68a535917e70453e",
+        "name": "Гриша 1",
+        "bitmapResolution": 2,
+        "md5ext": "578be652e01a801e68a535917e70453e.png",
+        "dataFormat": "png",
+        "rotationCenterX": 200,
+        "rotationCenterY": 400
+      },
+      {
+        "assetId": "9d6aac7df132c86c47365344d610eb85",
+        "name": "Гриша 2",
+        "bitmapResolution": 2,
+        "md5ext": "9d6aac7df132c86c47365344d610eb85.png",
+        "dataFormat": "png",
+        "rotationCenterX": 200,
+        "rotationCenterY": 400
+      },
+      {
+        "assetId": "1f86ae3a7fbcaf3ea70ca211d90ca2f1",
+        "name": "Гриша 3",
+        "bitmapResolution": 2,
+        "md5ext": "1f86ae3a7fbcaf3ea70ca211d90ca2f1.png",
+        "dataFormat": "png",
+        "rotationCenterX": 200,
+        "rotationCenterY": 400
+      },
+      {
+        "assetId": "4129633685c21dbbc0968e4595c870ad",
+        "name": "Гриша 4",
+        "bitmapResolution": 2,
+        "md5ext": "4129633685c21dbbc0968e4595c870ad.png",
+        "dataFormat": "png",
+        "rotationCenterX": 206,
+        "rotationCenterY": 334
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Груша",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "933094b276744acbb34c4891af0559c5",
+        "name": "Груша",
+        "bitmapResolution": 2,
+        "md5ext": "933094b276744acbb34c4891af0559c5.png",
+        "dataFormat": "png",
+        "rotationCenterX": 110,
+        "rotationCenterY": 182
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Девушка",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "2a3599e395350ad8369c42d336b09e2e",
+        "name": "Девушка 1",
+        "bitmapResolution": 2,
+        "md5ext": "2a3599e395350ad8369c42d336b09e2e.png",
+        "dataFormat": "png",
+        "rotationCenterX": 109,
+        "rotationCenterY": 214
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Девушка в платье",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "bda5fbc60118a8952b3e77cae4dd0533",
+        "name": "Девушка в платье 1",
+        "bitmapResolution": 2,
+        "md5ext": "bda5fbc60118a8952b3e77cae4dd0533.png",
+        "dataFormat": "png",
+        "rotationCenterX": 196.5,
+        "rotationCenterY": 291
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Девушка с розой",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "26a2f38985326675605efb73cb239712",
+        "name": "Девушка с розой 1",
+        "bitmapResolution": 2,
+        "md5ext": "26a2f38985326675605efb73cb239712.png",
+        "dataFormat": "png",
+        "rotationCenterX": 92,
+        "rotationCenterY": 217
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Енот",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "1d81d72a5594ef37bc6144c425227b76",
+        "name": "Енот",
+        "bitmapResolution": 2,
+        "md5ext": "1d81d72a5594ef37bc6144c425227b76.png",
+        "dataFormat": "png",
+        "rotationCenterX": 400,
+        "rotationCenterY": 189
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Замок",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "527cf18b9de2843a441eeda0855d1f5f",
+        "name": "Замок",
+        "bitmapResolution": 2,
+        "md5ext": "527cf18b9de2843a441eeda0855d1f5f.png",
+        "dataFormat": "png",
+        "rotationCenterX": 206,
+        "rotationCenterY": 236
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Заяц",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "91c82524635b912e2e854f87edd71e1d",
+        "name": "Заяц",
+        "bitmapResolution": 2,
+        "md5ext": "91c82524635b912e2e854f87edd71e1d.png",
+        "dataFormat": "png",
+        "rotationCenterX": 238,
+        "rotationCenterY": 213
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Злодей",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "97ec00cbdb49ce854696c36813c5a9f1",
+        "name": "Злодей 1",
+        "bitmapResolution": 2,
+        "md5ext": "97ec00cbdb49ce854696c36813c5a9f1.png",
+        "dataFormat": "png",
+        "rotationCenterX": 202,
+        "rotationCenterY": 200
+      },
+      {
+        "assetId": "21b6d2965f8b43bbe82142c72acc9f9c",
+        "name": "Злодей 2",
+        "bitmapResolution": 2,
+        "md5ext": "21b6d2965f8b43bbe82142c72acc9f9c.png",
+        "dataFormat": "png",
+        "rotationCenterX": 388,
+        "rotationCenterY": 210
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Плюшевый мишка",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "99999fe8a1a2efc87689dea55e3f4fd4",
+        "name": "Плюшевый мишка 1",
+        "bitmapResolution": 2,
+        "md5ext": "99999fe8a1a2efc87689dea55e3f4fd4.png",
+        "dataFormat": "png",
+        "rotationCenterX": 174,
+        "rotationCenterY": 224
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Единорог",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "99eaadb5834ad0461ee9dd76cc24660d",
+        "name": "Единорог 1",
+        "bitmapResolution": 2,
+        "md5ext": "99eaadb5834ad0461ee9dd76cc24660d.png",
+        "dataFormat": "png",
+        "rotationCenterX": 238,
+        "rotationCenterY": 212
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Камень",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "c74bd8041c691a863ca44b8c01112137",
+        "name": "Камень",
+        "bitmapResolution": 2,
+        "md5ext": "c74bd8041c691a863ca44b8c01112137.png",
+        "dataFormat": "png",
+        "rotationCenterX": 162,
+        "rotationCenterY": 130
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Киви",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "10f9961ce3ca80b3efe14bb8593a2c3b",
+        "name": "Киви",
+        "bitmapResolution": 1,
+        "md5ext": "10f9961ce3ca80b3efe14bb8593a2c3b.png",
+        "dataFormat": "png",
+        "rotationCenterX": 47,
+        "rotationCenterY": 47
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Кинотеатр",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "d276d73e462c069838409c45f18d3302",
+        "name": "Кинотеатр",
+        "bitmapResolution": 2,
+        "md5ext": "d276d73e462c069838409c45f18d3302.png",
+        "dataFormat": "png",
+        "rotationCenterX": 232,
+        "rotationCenterY": 290
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Книга",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "4f2e62f1a86e6e8bd58a3ca9c09f3ec3",
+        "name": "Книга 1",
+        "bitmapResolution": 2,
+        "md5ext": "4f2e62f1a86e6e8bd58a3ca9c09f3ec3.png",
+        "dataFormat": "png",
+        "rotationCenterX": 414,
+        "rotationCenterY": 208
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Книги",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "499fdab05e4ba6a99e7670203c83ea37",
+        "name": "Книги 1",
+        "bitmapResolution": 2,
+        "md5ext": "499fdab05e4ba6a99e7670203c83ea37.png",
+        "dataFormat": "png",
+        "rotationCenterX": 268,
+        "rotationCenterY": 144
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Колокольчик",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "ae4339fe4b5e3db1babe61492a0f73ff",
+        "name": "Колокольчик 1",
+        "bitmapResolution": 2,
+        "md5ext": "ae4339fe4b5e3db1babe61492a0f73ff.png",
+        "dataFormat": "png",
+        "rotationCenterX": 340,
+        "rotationCenterY": 392
+      },
+      {
+        "assetId": "570b00a2e201005985a25994a4d1f634",
+        "name": "Колокольчик 2",
+        "bitmapResolution": 2,
+        "md5ext": "570b00a2e201005985a25994a4d1f634.png",
+        "dataFormat": "png",
+        "rotationCenterX": 320,
+        "rotationCenterY": 384
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Колонка",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "ce625a00978179359707e11f55fee0a5",
+        "name": "Колонка 1",
+        "bitmapResolution": 2,
+        "md5ext": "ce625a00978179359707e11f55fee0a5.png",
+        "dataFormat": "png",
+        "rotationCenterX": 216,
+        "rotationCenterY": 298
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Компьютер",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "27baecca715958b651df623c2492c140",
+        "name": "Компьютер",
+        "bitmapResolution": 2,
+        "md5ext": "27baecca715958b651df623c2492c140.png",
+        "dataFormat": "png",
+        "rotationCenterX": 195,
+        "rotationCenterY": 193
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Корабль",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "6407d8814f65cb7994408c3f18fd62db",
+        "name": "Корабль 1",
+        "bitmapResolution": 2,
+        "md5ext": "6407d8814f65cb7994408c3f18fd62db.png",
+        "dataFormat": "png",
+        "rotationCenterX": 408,
+        "rotationCenterY": 260
+      },
+      {
+        "assetId": "9d0eaa0cf111889a4fc3cc1e8bf47ca3",
+        "name": "Корабль 2",
+        "bitmapResolution": 2,
+        "md5ext": "9d0eaa0cf111889a4fc3cc1e8bf47ca3.png",
+        "dataFormat": "png",
+        "rotationCenterX": 432,
+        "rotationCenterY": 240
+      },
+      {
+        "assetId": "1c2648a490d9dcd711aca3728cd2786d",
+        "name": "Корабль 3",
+        "bitmapResolution": 2,
+        "md5ext": "1c2648a490d9dcd711aca3728cd2786d.png",
+        "dataFormat": "png",
+        "rotationCenterX": 420,
+        "rotationCenterY": 240
+      },
+      {
+        "assetId": "fc6da84ac64437cee57dce77ac7915d9",
+        "name": "Корабль 4",
+        "bitmapResolution": 2,
+        "md5ext": "fc6da84ac64437cee57dce77ac7915d9.png",
+        "dataFormat": "png",
+        "rotationCenterX": 412,
+        "rotationCenterY": 240
+      },
+      {
+        "assetId": "0ae6a4ded1739bb3f48ea66c2a5ac5e4",
+        "name": "Корабль 5",
+        "bitmapResolution": 2,
+        "md5ext": "0ae6a4ded1739bb3f48ea66c2a5ac5e4.png",
+        "dataFormat": "png",
+        "rotationCenterX": 612,
+        "rotationCenterY": 892
+      },
+      {
+        "assetId": "7a1ac7f41fb47bc32c752879941ab402",
+        "name": "Корабль 6",
+        "bitmapResolution": 2,
+        "md5ext": "7a1ac7f41fb47bc32c752879941ab402.png",
+        "dataFormat": "png",
+        "rotationCenterX": 492,
+        "rotationCenterY": 816
+      },
+      {
+        "assetId": "96ff50c26b8d0c577798caaee8da0433",
+        "name": "Корабль 7",
+        "bitmapResolution": 2,
+        "md5ext": "96ff50c26b8d0c577798caaee8da0433.png",
+        "dataFormat": "png",
+        "rotationCenterX": 286,
+        "rotationCenterY": 290
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Космический корабль",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "9df2745d326767ddd8978472d9d81e86",
+        "name": "Космический корабль",
+        "bitmapResolution": 2,
+        "md5ext": "9df2745d326767ddd8978472d9d81e86.png",
+        "dataFormat": "png",
+        "rotationCenterX": 387,
+        "rotationCenterY": 241
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Кот",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "b78a45b4d35e1e53ec05818fbc20d513",
+        "name": "Кот 1",
+        "bitmapResolution": 2,
+        "md5ext": "b78a45b4d35e1e53ec05818fbc20d513.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      },
+      {
+        "assetId": "7a89d042b2cb0122abd5476f83753993",
+        "name": "Кот 2",
+        "bitmapResolution": 2,
+        "md5ext": "7a89d042b2cb0122abd5476f83753993.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      },
+      {
+        "assetId": "3379b05cfa8795525dea60037acef633",
+        "name": "Кот 3",
+        "bitmapResolution": 2,
+        "md5ext": "3379b05cfa8795525dea60037acef633.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      },
+      {
+        "assetId": "bcb4c1ae166190823511bcf8c148bcde",
+        "name": "Кот 4",
+        "bitmapResolution": 2,
+        "md5ext": "bcb4c1ae166190823511bcf8c148bcde.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Серый Кот",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "dd2b711a1ed87e4ba1b4afc4a329f0d3",
+        "name": "Серый Кот 1",
+        "bitmapResolution": 2,
+        "md5ext": "dd2b711a1ed87e4ba1b4afc4a329f0d3.png",
+        "dataFormat": "png",
+        "rotationCenterX": 199,
+        "rotationCenterY": 241
+      },
+      {
+        "assetId": "b213fd5e2db4d25c7019a2b8e965e89a",
+        "name": "Серый Кот 2",
+        "bitmapResolution": 2,
+        "md5ext": "b213fd5e2db4d25c7019a2b8e965e89a.png",
+        "dataFormat": "png",
+        "rotationCenterX": 245,
+        "rotationCenterY": 219
+      },
+      {
+        "assetId": "274a72fd86d117b2bd6081fb624e2174",
+        "name": "Серый Кот 3",
+        "bitmapResolution": 2,
+        "md5ext": "274a72fd86d117b2bd6081fb624e2174.png",
+        "dataFormat": "png",
+        "rotationCenterX": 200,
+        "rotationCenterY": 214
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Кубок",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "5328f1bea353e053b4845644b866d14f",
+        "name": "Кубок 1",
+        "bitmapResolution": 2,
+        "md5ext": "5328f1bea353e053b4845644b866d14f.png",
+        "dataFormat": "png",
+        "rotationCenterX": 196,
+        "rotationCenterY": 260
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Кукла",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "43eb5e50c5de4fe77dd1f46d8d062694",
+        "name": "Кукла 1",
+        "bitmapResolution": 2,
+        "md5ext": "43eb5e50c5de4fe77dd1f46d8d062694.png",
+        "dataFormat": "png",
+        "rotationCenterX": 120,
+        "rotationCenterY": 226
+      },
+      {
+        "assetId": "1c80eee6a38f8c3eaa8f72a0f677eb80",
+        "name": "Кукла 2",
+        "bitmapResolution": 2,
+        "md5ext": "1c80eee6a38f8c3eaa8f72a0f677eb80.png",
+        "dataFormat": "png",
+        "rotationCenterX": 128,
+        "rotationCenterY": 218
+      },
+      {
+        "assetId": "0a0d1da1df4e67ae92e4246c3ab4a861",
+        "name": "Кукла 3",
+        "bitmapResolution": 2,
+        "md5ext": "0a0d1da1df4e67ae92e4246c3ab4a861.png",
+        "dataFormat": "png",
+        "rotationCenterX": 160,
+        "rotationCenterY": 234
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Конь",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "e8fc90cd52923f40962898f264f72cb9",
+        "name": "Конь 1",
+        "bitmapResolution": 2,
+        "md5ext": "e8fc90cd52923f40962898f264f72cb9.png",
+        "dataFormat": "png",
+        "rotationCenterX": 215.5,
+        "rotationCenterY": 189.5
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Лошадь",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "6cd9b1435991bcb02b5a125109ff604b",
+        "name": "Лошадь 1",
+        "bitmapResolution": 2,
+        "md5ext": "6cd9b1435991bcb02b5a125109ff604b.png",
+        "dataFormat": "png",
+        "rotationCenterX": 236,
+        "rotationCenterY": 184
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Микрофон",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "168782d861c82045f7eab9c36e0e1266",
+        "name": "Микрофон 1",
+        "bitmapResolution": 2,
+        "md5ext": "168782d861c82045f7eab9c36e0e1266.png",
+        "dataFormat": "png",
+        "rotationCenterX": 80,
+        "rotationCenterY": 116
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Монитор",
+    "tags": [],
+    "isStage": false,
+    "size": 50,
+    "variables": {},
+    "costumes": [
+      {
+        "assetId": "b1ddc0b0910b75bb075c2f498d0cb58c",
+        "name": "Монитор 1",
+        "bitmapResolution": 2,
+        "md5ext": "b1ddc0b0910b75bb075c2f498d0cb58c.png",
+        "dataFormat": "png",
+        "rotationCenterX": 420,
+        "rotationCenterY": 304
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Мужчина",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "9c0d5415fcfdf0d7107103a30ca586be",
+        "name": "Мужчина",
+        "bitmapResolution": 2,
+        "md5ext": "9c0d5415fcfdf0d7107103a30ca586be.png",
+        "dataFormat": "png",
+        "rotationCenterX": 160,
+        "rotationCenterY": 292
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Музей",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "5735f66e66d43a3acf7fdaf57630cab1",
+        "name": "Музей 1",
+        "bitmapResolution": 2,
+        "md5ext": "5735f66e66d43a3acf7fdaf57630cab1.png",
+        "dataFormat": "png",
+        "rotationCenterX": 312,
+        "rotationCenterY": 284
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Ноутбук",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "1ed7ea7f9ec8be0197237547f3500d6c",
+        "name": "Ноутбук 1",
+        "bitmapResolution": 2,
+        "md5ext": "1ed7ea7f9ec8be0197237547f3500d6c.png",
+        "dataFormat": "png",
+        "rotationCenterX": 334,
+        "rotationCenterY": 248
+      },
+      {
+        "assetId": "66424552565d313c6cb8ac6445e0b8c3",
+        "name": "Ноутбук 2",
+        "bitmapResolution": 2,
+        "md5ext": "66424552565d313c6cb8ac6445e0b8c3.png",
+        "dataFormat": "png",
+        "rotationCenterX": 347,
+        "rotationCenterY": 163
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Персик",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "525df8be0acc92543995d603264038bd",
+        "name": "Персик 1",
+        "bitmapResolution": 2,
+        "md5ext": "525df8be0acc92543995d603264038bd.png",
+        "dataFormat": "png",
+        "rotationCenterX": 138,
+        "rotationCenterY": 112
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Пианино",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "e7d1f3ec82ba4775a14f3e87ce1a233c",
+        "name": "Пианино",
+        "bitmapResolution": 2,
+        "md5ext": "e7d1f3ec82ba4775a14f3e87ce1a233c.png",
+        "dataFormat": "png",
+        "rotationCenterX": 211,
+        "rotationCenterY": 187
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Подарок 1",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "a863cd7f2a8171b1e58e699d21425146",
+        "name": "Подарок 1",
+        "bitmapResolution": 2,
+        "md5ext": "a863cd7f2a8171b1e58e699d21425146.png",
+        "dataFormat": "png",
+        "rotationCenterX": 130,
+        "rotationCenterY": 130
+      },
+      {
+        "assetId": "e20b92620ed5bda08993fb0d581c46e5",
+        "name": "Подарок 2",
+        "bitmapResolution": 2,
+        "md5ext": "e20b92620ed5bda08993fb0d581c46e5.png",
+        "dataFormat": "png",
+        "rotationCenterX": 182,
+        "rotationCenterY": 148
+      },
+      {
+        "assetId": "3d7c57a7cf12235d607f5edceacc0a94",
+        "name": "Подарок 3",
+        "bitmapResolution": 2,
+        "md5ext": "3d7c57a7cf12235d607f5edceacc0a94.png",
+        "dataFormat": "png",
+        "rotationCenterX": 290,
+        "rotationCenterY": 168
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Пёс",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "d3ae2cf76241697a4cbc8830b0778eff",
+        "name": "Пёс",
+        "bitmapResolution": 4,
+        "md5ext": "d3ae2cf76241697a4cbc8830b0778eff.png",
+        "dataFormat": "png",
+        "rotationCenterX": 333.5,
+        "rotationCenterY": 360
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Радио",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "5839662179b937b56a5fe27649c78f50",
+        "name": "Радио",
+        "bitmapResolution": 2,
+        "md5ext": "5839662179b937b56a5fe27649c78f50.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Робик",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "451e551132a8b76a76ccfd4e07a53d58",
+        "name": "Робик",
+        "bitmapResolution": 2,
+        "md5ext": "451e551132a8b76a76ccfd4e07a53d58.png",
+        "dataFormat": "png",
+        "rotationCenterX": 184,
+        "rotationCenterY": 224
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Робопёс",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "a97d9906feea8ea9e1d8f0f532076ba3",
+        "name": "Робопёс",
+        "bitmapResolution": 2,
+        "md5ext": "a97d9906feea8ea9e1d8f0f532076ba3.png",
+        "dataFormat": "png",
+        "rotationCenterX": 260,
+        "rotationCenterY": 224
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Робот",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "c872a9d30fd41e4e4d568634531b0c15",
+        "name": "Робот 1",
+        "bitmapResolution": 2,
+        "md5ext": "c872a9d30fd41e4e4d568634531b0c15.png",
+        "dataFormat": "png",
+        "rotationCenterX": 276,
+        "rotationCenterY": 371.5
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Астробот",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "abdc633a8de2ae6cf8d8b46999a41147",
+        "name": "Астробот 1",
+        "bitmapResolution": 2,
+        "md5ext": "abdc633a8de2ae6cf8d8b46999a41147.png",
+        "dataFormat": "png",
+        "rotationCenterX": 173,
+        "rotationCenterY": 232
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Рыцарь",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "67f6beb709677948bbe66f127795a498",
+        "name": "Рыцарь",
+        "bitmapResolution": 2,
+        "md5ext": "67f6beb709677948bbe66f127795a498.png",
+        "dataFormat": "png",
+        "rotationCenterX": 141.07,
+        "rotationCenterY": 326.5
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Рюкзак 1",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "00f9d82e3e357c61eb70fd89d556b2d5",
+        "name": "Рюкзак 1",
+        "bitmapResolution": 2,
+        "md5ext": "00f9d82e3e357c61eb70fd89d556b2d5.png",
+        "dataFormat": "png",
+        "rotationCenterX": 166,
+        "rotationCenterY": 203
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Рюкзак 2",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "0a6e16b513da15bc4f9af26c6f6bf60a",
+        "name": "Рюкзак 2",
+        "bitmapResolution": 2,
+        "md5ext": "0a6e16b513da15bc4f9af26c6f6bf60a.png",
+        "dataFormat": "png",
+        "rotationCenterX": 220,
+        "rotationCenterY": 266
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Собака",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "5258e2b6d59f47259c607bde8bdcaf6d",
+        "name": "Собака 1",
+        "bitmapResolution": 2,
+        "md5ext": "5258e2b6d59f47259c607bde8bdcaf6d.png",
+        "dataFormat": "png",
+        "rotationCenterX": 238,
+        "rotationCenterY": 184
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Чёрная собака",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "1e423c2ae55758527a3877cb1fb85f80",
+        "name": "Чёрная собака 1",
+        "bitmapResolution": 2,
+        "md5ext": "1e423c2ae55758527a3877cb1fb85f80.png",
+        "dataFormat": "png",
+        "rotationCenterX": 331,
+        "rotationCenterY": 249
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Учёная",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "4b3902da30829021c5d651bf9a9b9b15",
+        "name": "Учёная",
+        "bitmapResolution": 2,
+        "md5ext": "4b3902da30829021c5d651bf9a9b9b15.png",
+        "dataFormat": "png",
+        "rotationCenterX": 90.47,
+        "rotationCenterY": 252.11
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Фотоаппарат",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "3f54e1d83e33c80c0ce5072ab7a13796",
+        "name": "Фотоаппарат 1",
+        "bitmapResolution": 2,
+        "md5ext": "3f54e1d83e33c80c0ce5072ab7a13796.png",
+        "dataFormat": "png",
+        "rotationCenterX": 348,
+        "rotationCenterY": 198
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Холст",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "8fabddf36c14196e68d9d91d73bc4f78",
+        "name": "Холст",
+        "bitmapResolution": 2,
+        "md5ext": "8fabddf36c14196e68d9d91d73bc4f78.png",
+        "dataFormat": "png",
+        "rotationCenterX": 133,
+        "rotationCenterY": 182
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Цифра",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "a42a02afd9237fa9ff030ab48e680849",
+        "name": "Цифра 1",
+        "bitmapResolution": 2,
+        "md5ext": "a42a02afd9237fa9ff030ab48e680849.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      },
+      {
+        "assetId": "eaf24573ba471b2bd7e49c8c2328114d",
+        "name": "Цифра 2",
+        "bitmapResolution": 2,
+        "md5ext": "eaf24573ba471b2bd7e49c8c2328114d.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      },
+      {
+        "assetId": "77fc800ac30cc2ca8b948f88179c6796",
+        "name": "Цифра 3",
+        "bitmapResolution": 2,
+        "md5ext": "77fc800ac30cc2ca8b948f88179c6796.png",
+        "dataFormat": "png",
+        "rotationCenterX": 256,
+        "rotationCenterY": 256
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Школа",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "c29fb268065a1751d9b22f786066ff71",
+        "name": "Школа 1",
+        "bitmapResolution": 2,
+        "md5ext": "c29fb268065a1751d9b22f786066ff71.png",
+        "dataFormat": "png",
+        "rotationCenterX": 294,
+        "rotationCenterY": 254
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  },
+  {
+    "name": "Яблоко",
+    "tags": [],
+    "isStage": false,
+    "variables": {},
+    "size": 50,
+    "costumes": [
+      {
+        "assetId": "67cc53cfbb3ec4da8c8a93d1b62064e0",
+        "name": "Яблоко 1",
+        "bitmapResolution": 2,
+        "md5ext": "67cc53cfbb3ec4da8c8a93d1b62064e0.png",
+        "dataFormat": "png",
+        "rotationCenterX": 216,
+        "rotationCenterY": 232
+      }
+    ],
+    "sounds": [],
+    "blocks": {}
+  }
+]

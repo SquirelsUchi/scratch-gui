@@ -1,0 +1,122 @@
+@import '../../css/units.css';
+@import '../../css/colors.css';
+
+/* @todo: refactor this class name, and component: `sprite-selector` to `sprite` */
+.sprite-selector-item {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: $space;
+  border-color: $ui-black-transparent;
+  color: $text-primary;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.sprite-selector-item.is-selected {
+  border: 2px solid $looks-secondary;
+  background: $ui-white;
+  box-shadow: 0 0 0 4px $looks-transparent;
+}
+
+.sprite-selector-item:hover {
+  border: 2px solid $looks-secondary;
+  background: $ui-white;
+}
+
+.sprite-selector-item:hover .sprite-image,
+.is-selected .sprite-image {
+  filter: drop-shadow(0 0 2px $ui-black-transparent);
+}
+
+/* Outer/Inner chicanery is to prevent layouts when sprite image changes */
+.sprite-image-outer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform: translateZ(0);
+}
+
+.sprite-image-inner {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.sprite-image {
+  max-width: 32px;
+  max-height: 32px;
+  pointer-events: none;
+  user-select: none;
+}
+
+.sprite-info {
+  padding: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  color: $text-primary;
+  font-size: 0.625rem;
+  user-select: none;
+}
+
+.sprite-name,
+.sprite-details {
+  min-width: 0;
+
+  /*
+        For truncating overflowing text gracefully
+        Min-width is for a bug: https://css-tricks.com/flexbox-truncated-text
+    */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sprite-details {
+  margin-top: 0.125rem;
+  font-size: 0.5rem;
+}
+
+.is-selected .sprite-info {
+  background: $looks-secondary;
+  color: $ui-white;
+}
+
+.delete-button {
+  position: absolute;
+  z-index: auto;
+  top: -0.625rem;
+}
+
+[dir='ltr'] .delete-button {
+  right: -0.625rem;
+}
+
+[dir='rtl'] .delete-button {
+  left: -0.625rem;
+}
+
+.number {
+  position: absolute;
+  z-index: 2;
+  top: 0.15rem;
+  font-size: 0.625rem;
+  font-weight: bold;
+}
+
+[dir='ltr'] .number {
+  left: 0.15rem;
+}
+
+[dir='rtl'] .number {
+  right: 0.15rem;
+}

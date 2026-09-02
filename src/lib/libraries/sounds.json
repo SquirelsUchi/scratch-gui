@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Бульк",
+    "assetId": "0b0cc04a59cbd0cf2cd2ec0cc5e2f08b",
+    "dataFormat": "mp3",
+    "md5ext": "0b0cc04a59cbd0cf2cd2ec0cc5e2f08b.mp3",
+    "sampleCount": 56320,
+    "rate": 44100
+  },
+  {
+    "name": "Электро бас",
+    "assetId": "1bc167133918a76463e97abb96e14fef",
+    "dataFormat": "mp3",
+    "md5ext": "1bc167133918a76463e97abb96e14fef.mp3",
+    "sampleCount": 11840,
+    "rate": 44100
+  },
+  {
+    "name": "Электро",
+    "assetId": "bb24bcc3603f159067d9fc6ec6324ce8",
+    "dataFormat": "mp3",
+    "md5ext": "bb24bcc3603f159067d9fc6ec6324ce8.mp3",
+    "sampleCount": 88200,
+    "rate": 44100
+  },
+  {
+    "name": "Гитара",
+    "assetId": "f1430104c0a48265b007ca780c2263c6",
+    "dataFormat": "mp3",
+    "md5ext": "f1430104c0a48265b007ca780c2263c6.mp3",
+    "sampleCount": 63744,
+    "rate": 44100
+  }
+]

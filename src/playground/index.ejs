@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="google" value="notranslate" />
+    <link rel="shortcut icon" href="<%= htmlWebpackPlugin.files.publicPath %>static/favicon_cat.ico">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <link rel="stylesheet" crossorigin href="<%= htmlWebpackPlugin.files.publicPath %>static/preloader/preloader.css" />
+  </head>
+  <body>
+    <!-- Loader Start -->
+    <div class="preloader">
+      <div class="preloader__container">
+        <div class="preloader__logo"></div>
+        <div class="preloader__bar">
+          <div class="preloader__bar-back">
+            <div class="preloader__bar-fill">
+              <div class="preloader__bar-fill-scale" id="bar-scale"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      window.guiLoaderData = {
+        hideCallback: null,
+        preloader: {
+          barInCheckPointPromise: null,
+          init: function () {
+            document.addEventListener('DOMContentLoaded', () => {
+              window.guiLoaderData.preloader.show();
+            });
+          },
+          show: function () {
+            body = document.querySelector('body');
+            preloader = document.querySelector('.preloader');
+            scale = document.getElementById('bar-scale');
+            preloaderBar = document.querySelector('.preloader__bar');
+
+            preloader.classList.value = 'preloader';
+            scale.classList.value = 'preloader__bar-fill-scale';
+            preloaderBar.classList.value = 'preloader__bar';
+            body.classList.add('overflow_hidden');
+
+            requestAnimationFrame(window.guiLoaderData.preloader.startFillBar);
+          },
+          startFillBar: function () {
+            if (!scale) return;
+            scale.classList.add('preloader__bar-fill-scale_check-point');
+
+            window.guiLoaderData.preloader.barInCheckPointPromise = new Promise((resolve) => {
+              const handleTransitionEnd = function () {
+                resolve();
+                scale.removeEventListener('transitionend', handleTransitionEnd);
+              };
+
+              scale.addEventListener('transitionend', handleTransitionEnd);
+            });
+          },
+          finishFillBar: function () {
+            if (!scale) return;
+            const REDUCE_WIDTH_ANIMATION_DELAY = 1000;
+
+            return new Promise((resolve) => {
+              const handleTransitionEnd = function () {
+                resolve();
+                scale.removeEventListener('transitionend', handleTransitionEnd);
+                preloaderBar.classList.add('preloader__bar_reduced');
+                setTimeout(() => {
+                  window.guiLoaderData.preloader.hide();
+                }, REDUCE_WIDTH_ANIMATION_DELAY);
+              };
+
+              scale.addEventListener('transitionend', handleTransitionEnd);
+              scale.classList.add('preloader__bar-fill-scale_filled');
+            });
+          },
+          hide: function () {
+            if (!preloader || !scale) return;
+
+            if (guiLoaderData.preloader.hideCallback) {
+              guiLoaderData.preloader.hideCallback();
+            }
+
+            function onHideEnd() {
+              preloader.removeEventListener('transitionend', onHideEnd);
+              preloader.classList.add('preloader_hidden');
+            }
+            preloader.addEventListener('transitionend', onHideEnd);
+            preloader.classList.add('preloader_end');
+            body.classList.remove('overflow_hidden');
+          },
+          playButtonClick: () => {
+            window.guiLoaderData.preloader.hide();
+          }
+        }
+      };
+      window.guiLoaderData.preloader.init();
+    </script>
+    <!-- Loader End -->
+  </body>
+</html>

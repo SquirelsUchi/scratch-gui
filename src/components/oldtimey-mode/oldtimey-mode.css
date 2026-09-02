@@ -1,0 +1,9 @@
+.oldtimey-mode {
+  position: absolute;
+  z-index: 500;
+  width: 100%;
+  height: 100%;
+  background: transparent url('./oldtimey.png') center center;
+  background-size: 100% 100%;
+  pointer-events: none;
+}

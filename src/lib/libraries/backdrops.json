@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Арабская ночь",
+    "tags": [],
+    "assetId": "c646bbba13b695dcbc1282c21830578c",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "c646bbba13b695dcbc1282c21830578c.png",
+    "rotationCenterX": 479,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Водопад",
+    "tags": [],
+    "assetId": "ac653ac8d79a096e7bcf090a7909507e",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "ac653ac8d79a096e7bcf090a7909507e.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Город",
+    "tags": [],
+    "assetId": "951a135460b2f16f7e70f626d82a6bde",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "951a135460b2f16f7e70f626d82a6bde.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 359.5
+  },
+  {
+    "name": "Горы",
+    "tags": [],
+    "assetId": "dc25cc624866aa4ab38606ddd10b8604",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "dc25cc624866aa4ab38606ddd10b8604.png",
+    "rotationCenterX": 479,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Деревня",
+    "tags": [],
+    "assetId": "98ff520a558e51ad0476f12c531491ff",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "98ff520a558e51ad0476f12c531491ff.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Комната",
+    "tags": [],
+    "assetId": "dbb92352d84372164bf26464115ac4c0",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "dbb92352d84372164bf26464115ac4c0.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Комната 2",
+    "tags": [],
+    "assetId": "35829268372e4094515d52825963cb66",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "35829268372e4094515d52825963cb66.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Комната 3",
+    "tags": [],
+    "assetId": "af5f0189f351786305db7a1638fe60d2",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "af5f0189f351786305db7a1638fe60d2.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Комната 4",
+    "tags": [],
+    "assetId": "cd6b2fc7ecf4f12a39b40a630484fa6d",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "cd6b2fc7ecf4f12a39b40a630484fa6d.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Комната 5",
+    "tags": [],
+    "assetId": "dba6823f3aa5b2fc9a91ad115046caf5",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "dba6823f3aa5b2fc9a91ad115046caf5.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Комната 6",
+    "tags": [],
+    "assetId": "c2815f817d2232d24284c86b95f845ed",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "c2815f817d2232d24284c86b95f845ed.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Конец игры",
+    "tags": [],
+    "assetId": "7c0ef5f3cb36555a8c3c724d225b775b",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "7c0ef5f3cb36555a8c3c724d225b775b.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Космос",
+    "tags": [],
+    "assetId": "662461c1f09e40b2046375f8de7c0e78",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "662461c1f09e40b2046375f8de7c0e78.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 352.5
+  },
+  {
+    "name": "Космос 2",
+    "tags": [],
+    "assetId": "1370d6854ff0a1565095d6228c39e027",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "1370d6854ff0a1565095d6228c39e027.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 352.5
+  },
+  {
+    "name": "Лес",
+    "tags": [],
+    "assetId": "865c67a2ae1d1628222e39c4b60cb482",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "865c67a2ae1d1628222e39c4b60cb482.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Лес 2",
+    "tags": [],
+    "assetId": "7b3701135c64084ad2d45f5e10b94f68",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "7b3701135c64084ad2d45f5e10b94f68.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Лес 3",
+    "tags": [],
+    "assetId": "dab4bdde1b1ccdd9d1d4d9b59a949707",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "dab4bdde1b1ccdd9d1d4d9b59a949707.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Лес 4",
+    "tags": [],
+    "assetId": "13a922be2577b27cbaab8f560dd0947d",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "13a922be2577b27cbaab8f560dd0947d.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Мезозой",
+    "tags": [],
+    "assetId": "04772740f2428bf0891eadc49f8a46fe",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "04772740f2428bf0891eadc49f8a46fe.png",
+    "rotationCenterX": 479,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Море",
+    "tags": [],
+    "assetId": "b2ecdec0344246c3f1d94bd0660c9652",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "b2ecdec0344246c3f1d94bd0660c9652.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Планета",
+    "tags": [],
+    "assetId": "e648fd41dc74842117e24ac4f2a1e577",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "e648fd41dc74842117e24ac4f2a1e577.png",
+    "rotationCenterX": 470,
+    "rotationCenterY": 400
+  },
+  {
+    "name": "Планета 2",
+    "tags": [],
+    "assetId": "afb2a9d7093b79c574ebbe11c1c56041",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "afb2a9d7093b79c574ebbe11c1c56041.png",
+    "rotationCenterX": 494,
+    "rotationCenterY": 420
+  },
+  {
+    "name": "Планета 3",
+    "tags": [],
+    "assetId": "3740f57118c5c4ffc873f2f345b5c103",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "3740f57118c5c4ffc873f2f345b5c103.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Планета 4",
+    "tags": [],
+    "assetId": "24e63d843e0b8011036ab69c229506e3",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "24e63d843e0b8011036ab69c229506e3.png",
+    "rotationCenterX": 479,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Победа",
+    "tags": [],
+    "assetId": "9494eaa087fbbd72d81f2edd462a546f",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "9494eaa087fbbd72d81f2edd462a546f.png",
+    "rotationCenterX": 479,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Природа",
+    "tags": [],
+    "assetId": "b80cf65ab24688f91ef6a18565592f1a",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "b80cf65ab24688f91ef6a18565592f1a.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 359.5
+  },
+  {
+    "name": "Пустыня",
+    "tags": [],
+    "assetId": "36a2ee6912dff10bf03a112316e878d5",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "36a2ee6912dff10bf03a112316e878d5.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Спортивный",
+    "tags": [],
+    "assetId": "f564a4d8b32a5e058fe6417965429fc3",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "f564a4d8b32a5e058fe6417965429fc3.png",
+    "rotationCenterX": 518.5,
+    "rotationCenterY": 389
+  },
+  {
+    "name": "Фон 1",
+    "tags": [],
+    "assetId": "99dcc6f72a21d722dcdc1000c2e92efb",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "99dcc6f72a21d722dcdc1000c2e92efb.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 353.5
+  },
+  {
+    "name": "Фон 2",
+    "tags": [],
+    "assetId": "8b5451cf28ceff73a62cfd194730d549",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "8b5451cf28ceff73a62cfd194730d549.png",
+    "rotationCenterX": 408,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Фон 3",
+    "tags": [],
+    "assetId": "f183c8e2bdd095098b29b0f1a2414a5d",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "f183c8e2bdd095098b29b0f1a2414a5d.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  },
+  {
+    "name": "Фон 4",
+    "tags": [],
+    "assetId": "a3a50002f21cc5e29b68b5c19c9f5093",
+    "bitmapResolution": 2,
+    "dataFormat": "png",
+    "md5ext": "a3a50002f21cc5e29b68b5c19c9f5093.png",
+    "rotationCenterX": 480,
+    "rotationCenterY": 360
+  }
+]

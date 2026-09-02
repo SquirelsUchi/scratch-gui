@@ -1,0 +1,7 @@
+.sprite-image {
+  max-width: 48px;
+  max-height: 48px;
+  margin: auto;
+  opacity: 0.35;
+  user-select: none;
+}

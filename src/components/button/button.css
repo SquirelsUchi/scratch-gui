@@ -1,0 +1,29 @@
+@import '../../css/units.css';
+
+.outlined-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+  border-radius: $form-radius;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+}
+
+.icon {
+  height: 1.5rem;
+}
+
+[dir='ltr'] .icon {
+  margin-right: 0.5rem;
+}
+
+[dir='rtl'] .icon {
+  margin-left: 0.5rem;
+}
+
+.content {
+  white-space: nowrap;
+}

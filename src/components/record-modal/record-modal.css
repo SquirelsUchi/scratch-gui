@@ -1,0 +1,130 @@
+@import '../../css/colors.css';
+@import '../../css/units.css';
+
+.modal-content {
+  width: 600px;
+}
+
+.body {
+  padding: 1.5rem 2.25rem;
+  background: $ui-white;
+}
+
+.visualization-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.meter-container,
+.waveform-container {
+  padding: 3px;
+
+  /* Force these to be on their own render layer because they update often */
+  transform: translateZ(0);
+  border: 1px solid $ui-black-transparent;
+  border-radius: 5px;
+  background: $ui-primary;
+}
+
+.meter-container {
+  height: 180px;
+  margin-right: 5px;
+}
+
+.waveform-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  height: 180px;
+}
+
+.help-text {
+  margin: 10px auto 0;
+  color: rgb(167 170 181);
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.playing-text {
+  color: $looks-secondary;
+}
+
+.recording-text {
+  color: $red-primary;
+}
+
+.main-button-row {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+
+.main-button-row button {
+  padding: 0.5rem 0.75rem;
+  border: none;
+  border-radius: 0.25rem;
+  background: transparent;
+}
+
+.main-button-row button:disabled {
+  opacity: 0.25;
+}
+
+.main-button-row button:active,
+.main-button-row button:focus {
+  outline: none;
+}
+
+.button-row {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bolder;
+  text-align: right;
+}
+
+.button-row button {
+  padding: 0.75rem 1rem;
+  border: 1px solid $ui-black-transparent;
+  border-radius: 0.25rem;
+  background: white;
+  color: $looks-secondary;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.button-row button.ok-button {
+  border: $looks-secondary;
+  background: $looks-secondary;
+  color: white;
+}
+
+.button-row button + button {
+  margin-left: 0.5rem;
+}
+
+.main-button {
+  text-align: center;
+}
+
+/* Increase specificity to make sure this wins out over normalize.css */
+svg.record-button {
+  overflow: visible;
+}
+
+.record-button-circle {
+  stroke: $red-tertiary;
+  fill: $red-primary;
+}
+
+.record-button-circle-outline {
+  transition: 0.1s;
+  opacity: 0.2;
+  fill: $red-primary;
+}
+
+[dir='rtl'] .rerecord-button img {
+  transform: scaleX(-1);
+}
