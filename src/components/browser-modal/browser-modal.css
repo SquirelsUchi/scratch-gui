@@ -1,0 +1,78 @@
+@import '../../css/colors.css';
+@import '../../css/units.css';
+@import '../../css/typography.css';
+@import '../../css/z-index.css';
+
+.modal-overlay {
+  position: fixed;
+  z-index: $z-index-modal;
+  inset: 0;
+  background-color: $ui-modal-overlay;
+}
+
+.modal-content {
+  width: 500px;
+  margin: 100px auto;
+  padding: 0;
+  overflow: hidden;
+  border: 0.25rem solid $ui-white-transparent;
+  border-radius: $space;
+  outline: none;
+  color: $text-primary;
+  user-select: none;
+}
+
+.illustration {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100px;
+  background-color: $control-primary;
+}
+
+[dir='rtl'] .illustration {
+  transform: scaleX(-1);
+}
+
+.illustration img {
+  width: auto;
+  height: 80%;
+}
+
+.body {
+  padding: 1.5rem 2.25rem;
+  background: $ui-white;
+  text-align: center;
+}
+
+/* Confirmation buttons at the bottom of the modal */
+.button-row {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0;
+  font-weight: bolder;
+  text-align: right;
+}
+
+.button-row button {
+  padding: 0.5rem 2rem;
+  border: 1px solid $looks-secondary;
+  border-radius: 0.25rem;
+  background: $looks-secondary;
+  color: white;
+  font-size: 0.875rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.faq-link-text {
+  margin: 2rem 0 0.5rem;
+  color: $text-primary;
+  font-size: 0.875rem;
+}
+
+.faq-link {
+  color: $looks-secondary;
+  text-decoration: none;
+}

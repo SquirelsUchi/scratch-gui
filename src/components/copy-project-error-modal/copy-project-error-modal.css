@@ -1,0 +1,84 @@
+@import '../../css/colors.css';
+@import '../../css/units.css';
+@import '../../css/typography.css';
+@import '../../css/z-index.css';
+
+.modal-overlay {
+  display: flex;
+  position: fixed;
+  z-index: $z-index-modal;
+  inset: 0;
+  align-items: center;
+  justify-content: center;
+  background: rgb(25 25 25 / 30%);
+}
+
+.modal-content {
+  display: inline-flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 1.5rem;
+  outline: none;
+  background-color: #fff;
+  font-family: 'Factor A', sans-serif;
+  user-select: none;
+  gap: 1.5rem;
+}
+
+.texWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #191919;
+  font-size: 1.125rem;
+  font-weight: 400;
+  gap: 1.5rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.confirmButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6875rem 0.875rem;
+  transition: 0.15s background ease-in-out;
+  border: none;
+  border-radius: 0.75rem;
+  background: #4c96ff;
+  color: #fff;
+  font-size: 1.125rem;
+  font-weight: 400;
+  cursor: pointer;
+  gap: 0.625rem;
+}
+
+.confirmButton:hover {
+  background: #3287ff;
+}
+
+.closeButton {
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: -3.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 2.875rem;
+  height: 2.875rem;
+  padding: 0.5625rem;
+  transition: 0.15s background ease-in-out;
+  border: none;
+  border-radius: 0.75rem;
+  background: #fff;
+  cursor: pointer;
+}
+
+.closeButton:hover {
+  background: #f2f2f2;
+}

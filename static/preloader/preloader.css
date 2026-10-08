@@ -1,0 +1,124 @@
+.overflow_hidden {
+  overflow: hidden;
+}
+
+.preloader {
+  --preload-bar-width: 762em;
+  --preload-bar-height: 14em;
+
+  display: flex;
+  position: fixed;
+  z-index: 99999;
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  transform: scale(1.01);
+  background-color: #2a1777;
+  background-image: url('./assets/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 0.0526vw;
+}
+
+.preloader_hidden {
+  display: none;
+}
+
+.preloader_end {
+  transition: opacity 500ms;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.preloader__logo {
+  width: 763em;
+  height: 265em;
+  margin-bottom: 129em;
+  background-image: url('./assets/logo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.preloader__container {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 171em;
+}
+
+.preloader__bar {
+  --preload-bar-width: 762em;
+  --preload-bar-height: 14em;
+
+  position: relative;
+  width: var(--preload-bar-width);
+  height: var(--preload-bar-height);
+}
+
+.preloader__bar-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 2em;
+  background: #271ea1;
+}
+
+.preloader__bar-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: var(--preload-bar-width);
+  height: var(--preload-bar-height);
+  overflow: hidden;
+  border-radius: 38em;
+}
+
+.preloader__bar-fill-scale {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: translateX(-100%);
+  background-color: #36bedd;
+}
+
+.preloader__bar-fill-scale_check-point {
+  transform: translateX(-15%);
+  transition: transform 300ms;
+}
+
+.preloader__bar-fill-scale_filled {
+  transform: translateX(0);
+  transition: transform 100ms;
+}
+
+.preloader__bar_reduced {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: widthReduce 1s forwards;
+
+  .preloader__bar-fill {
+    width: 100%;
+  }
+}
+
+@keyframes widthReduce {
+  from {
+    width: 644em;
+  }
+
+  to {
+    width: 0;
+  }
+}

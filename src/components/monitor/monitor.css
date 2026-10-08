@@ -1,0 +1,188 @@
+@import '../../css/units.css';
+@import '../../css/colors.css';
+@import '../../css/z-index.css';
+
+.monitor-container {
+  position: absolute;
+  z-index: $z-index-monitor;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+  border: 1px solid $ui-black-transparent;
+  border-radius: calc($space / 2);
+  background: $ui-primary;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.75rem;
+  pointer-events: all;
+}
+
+.monitor:hover {
+  cursor: pointer;
+}
+
+.dragging {
+  z-index: $z-index-monitor-dragging;
+  box-shadow: 3px 3px 5px #888;
+}
+
+.default-monitor {
+  display: flex;
+  flex-direction: column;
+  padding: 3px;
+}
+
+.label {
+  margin: 0 5px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.value {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  margin: 0 5px;
+  padding: 0 2px;
+  transform: translateZ(0); /* Fixes flickering in Safari */
+  border-radius: calc($space / 2);
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.large-value {
+  min-width: 3rem;
+  min-height: 1.4rem;
+  padding: 0.1rem 0.25rem;
+  transform: translateZ(0); /* Fixes flickering in Safari */
+  font-size: 1rem;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.slider {
+  width: 100%;
+  transform: translateZ(0); /* Fixes flickering in Safari */
+}
+
+.list-monitor {
+  display: flex;
+  flex-direction: column;
+}
+
+.list-header {
+  width: 100%;
+  padding: 3px;
+  border-bottom: 1px solid $ui-black-transparent;
+  background: $ui-white;
+  color: $text-primary;
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.list-body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: calc(100% - 44px);
+  overflow-x: hidden;
+  background: $ui-primary;
+}
+
+.list-row {
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2px;
+  transform: translateZ(0); /* Keep sharp when scaled */
+}
+
+.list-index {
+  margin: 0 3px;
+  color: $text-primary;
+  font-weight: bold;
+}
+
+.list-value {
+  flex-grow: 1;
+  min-width: 40px;
+  height: 22px;
+  margin: 0 3px;
+  border: 1px solid $ui-black-transparent;
+  border-radius: calc($space / 2);
+  text-align: left;
+}
+
+.list-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 3px;
+  background: $ui-white;
+  color: $text-primary;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.list-empty {
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+}
+
+.input-wrapper {
+  display: flex;
+  position: relative;
+  align-items: center;
+  overflow: hidden;
+  background: rgb(0 0 0 / 10%);
+}
+
+.value-inner {
+  min-height: 22px;
+  padding: 3px 5px;
+  overflow: hidden; /* Don't let long values escape container */
+  text-overflow: ellipsis;
+  white-space: pre;
+  user-select: text; /* Allow selecting list values for 2.0 compatibility, only relevant in player */
+}
+
+.list-input {
+  flex: 1 1 auto;
+
+  /* Workaround for Firefox */
+  width: 0;
+  padding: 3px 5px;
+  border: 0;
+  outline: none;
+  background: none;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.75rem;
+}
+
+.remove-button {
+  padding: 0;
+  padding-right: 5px;
+  cursor: pointer;
+}
+
+.add-button {
+  margin-right: 3px;
+  cursor: pointer;
+}
+
+.resize-handle {
+  margin-left: 3px;
+  cursor: nwse-resize;
+}
+
+.footer-length {
+  text-align: center;
+}

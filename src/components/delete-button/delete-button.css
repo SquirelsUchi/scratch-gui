@@ -1,0 +1,40 @@
+@import '../../css/colors.css';
+@import '../../css/units.css';
+
+/* wrapper to allow for touch slop if we decide to add it */
+.delete-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease-out;
+  cursor: pointer;
+  user-select: none;
+}
+
+.delete-button-visible {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  overflow: hidden; /* Mask the icon animation */
+  transition: all 0.15s ease-out;
+  border-radius: 50%;
+  background-color: $looks-secondary;
+  box-shadow: 0 0 0 2px $looks-transparent;
+  color: $ui-white;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  cursor: pointer;
+  user-select: none;
+}
+
+.delete-button-clicked {
+  background-color: $data-primary;
+}
+
+.delete-icon {
+  position: relative;
+  margin: 0.25rem;
+  transform-origin: 50%;
+  user-select: none;
+}

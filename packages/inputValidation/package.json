@@ -1,0 +1,12 @@
+{
+  "name": "@code-cat-studio/input-validation",
+  "version": "0.0.0",
+  "private": true,
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  }
+}

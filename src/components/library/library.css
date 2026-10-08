@@ -1,0 +1,86 @@
+@import '../../css/units.css';
+@import '../../css/colors.css';
+
+.library-scroll-grid {
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  place-content: flex-start flex-start;
+  align-items: flex-start;
+  height: auto;
+  height: calc(100% - $library-header-height);
+  padding: 0.5rem;
+  overflow-y: auto;
+  background: $ui-secondary;
+}
+
+.library-scroll-grid.withFilterBar {
+  height: calc(100% - $library-header-height - $library-filter-bar-height - 2rem);
+}
+
+.library-category {
+  display: flex;
+  flex-direction: column;
+}
+
+.library-category-title {
+  padding-left: 0.5rem;
+  color: $text-primary;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.library-category-items {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 1rem;
+}
+
+.filter-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  height: calc($library-filter-bar-height + 2rem); /* padding */
+  padding: 0 1rem;
+  background-color: $looks-transparent;
+  font-size: 0.875rem;
+}
+
+.filter-bar-item {
+  margin-right: 0.75rem;
+}
+
+.filter {
+  flex-grow: 0;
+}
+
+.filter-input {
+  width: 11.5rem;
+  transition: 0.2s;
+}
+
+.filter-input:focus,
+.filter-input:not([value='']) {
+  width: 18.75rem;
+}
+
+.divider {
+  height: $library-filter-bar-height;
+  transform: scaleY(1.39);
+}
+
+.tag-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  height: $library-filter-bar-height;
+  overflow: hidden;
+}
+
+.spinner-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
